@@ -25,13 +25,7 @@ https://github.com/LGLTeam/Android-Mod-Menu/wiki
 
 See: [Frequently Asked Questions (FAQ)](https://github.com/LGLTeam/Android-Mod-Menu/wiki/FAQ) where common questions are answered.
 
-If you have installation or usage problems, try asking your questions on the forum sites, [Platinmods](https://platinmods.com/forums/modding-questions-discussions.11/), or [UnknownCheats](https://www.unknowncheats.me/forum/android/) or others.
-
-For example, if you have an issue with Hooking and game crashes, you should go to the **support forums**. Here there are no teachers who can help you with such issues.
-
-Issues are disabled permanently due to peoples who have no mind (mostly newbies) aren't even able to fill proper issue templates nor are they able to read the instructions. I get so many useless issues, even useless pull-requests.
-
-As a result, the contact infomation has been removed as well. However you can find me in our Telegram channel. I will only talk to peoples who are very skilled, have proper brain and have patience! I will BLOCK if I feel like you are annoying, disrespectful and acting like a kid
+If you have installation or usage problems, try asking your questions on the forum sites. For example, if you have an issue with Hooking and game crashes, you should go to the **support forums**. Here there are no teachers who can help you with such issues. Because of that, issues are disabled permanently due to peoples who have no mind (mostly newbies) aren't even able to fill proper issue templates nor are they able to read the instructions. I get so many useless issues, even useless pull-requests.
 
 # Credits
 Thanks to the following individuals whose code helped me develop this mod menu
@@ -47,6 +41,6 @@ Thanks to the following individuals whose code helped me develop this mod menu
 **GNU General Public License 3**
 
 # Disclaimer
-This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun. If you are using this project for modding/hacking PU*G, C*DM, and any other Tencent games, we ask you to STOP immediately and remove any contents related to it, you will get legal troubles no matter what!
+This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun.
 
-While commecial use/selling is allowed, we still strongly refrain you from buying any source codes on Telegram even if the author can be trusted, there is always a risk getting scammed. We will not be responsible for that. This project is always FREE to use
+We strongly refrain you from buying any source codes on Telegram even if the author can be trusted, there is always a risk getting scammed. We will not be responsible for that. This project is always FREE to use
