@@ -27,6 +27,8 @@ See: [Frequently Asked Questions (FAQ)](https://github.com/LGLTeam/Android-Mod-M
 
 If you have installation or usage problems, try asking your questions on the forum sites. For example, if you have an issue with Hooking and game crashes, you should go to the **support forums**. Here there are no teachers who can help you with such issues. Because of that, issues are disabled permanently due to peoples who have no mind (mostly newbies) aren't even able to fill proper issue templates nor are they able to read the instructions. I get so many useless issues, even useless pull-requests.
 
+**There is no ETA (estimated time of arrival) when I will update, I will never provide ETA no matter what! So you better stop asking such question!**
+
 # Credits
 Thanks to the following individuals whose code helped me develop this mod menu
 
